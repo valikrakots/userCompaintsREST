@@ -1,4 +1,4 @@
-To see info about project structure go to:
+To see info about project structure go to(get method):
 http://127.0.0.1:8000/api - for simple user
 http://127.0.0.1:8000/api/admin - for superuser(you should create superuser
 and provide access token in header {Authentication : JWT (your token)})
