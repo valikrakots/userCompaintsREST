@@ -1,3 +1,6 @@
+This is a project written during my internship. Project is a fully REST service to process users' complaints. 
+
+
 To see info about project structure go to(get method):
 http://127.0.0.1:8000/api - for simple user
 http://127.0.0.1:8000/api/admin - for superuser(you should create superuser
