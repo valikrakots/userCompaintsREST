@@ -1,4 +1,4 @@
-This is a project written during my internship. Project is a fully REST service to process users' complaints. 
+This is a project to proccess user requests. Project is a fully REST service to process users' complaints. 
 
 
 To see info about project structure go to(get method):
